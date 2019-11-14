@@ -1,5 +1,6 @@
 # Ames, Iowa Housing Data: Predicting Sale Prices Across City Neighborhoods
-Prepared by Jessie Owens
+
+This repository is for a project I worked on as a Data Science Immersive student at General Assembly.
 
 
 ## Executive Summary
